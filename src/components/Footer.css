@@ -1,0 +1,28 @@
+.footer {
+  background-color: #1a4380;
+  color: white;
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+}
+
+.footer-links a {
+  color: cyan;
+  margin: 0 10px;
+  text-decoration: none;
+}
+
+.footer-links a:hover {
+  color: white;
+}
+
+.back-to-top {
+  display: block;
+  margin-top: 10px;
+  color: cyan;
+  text-decoration: none;
+}
+
+.back-to-top:hover {
+  color: white;
+}
