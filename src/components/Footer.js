@@ -13,7 +13,6 @@ export default function Footer() {
         <a href="https://www.linkedin.com/in/sk-saikat-ahmed-887124245/" target="_blank" rel="noreferrer">
           LinkedIn
         </a>
-        <a href="https://sk.saikatahmed2003@gmail.com">Email</a>
       </div>
 
       <a className="back-to-top" href="#top">↑ Back to Top</a>

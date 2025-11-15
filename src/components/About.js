@@ -9,12 +9,15 @@ export default function About() {
       <p>
         Hi, I'm <strong>Sheikh Saikat Ahmed</strong>, a passionate and dedicated 
         Computer Science student specializing in Machine Learning, Frontend Development.
+        I am currently pursuing M.Tech in Information Security from Motilal Nehru National
+        Institute of Technology, Allahabad(MNNIT). 
       </p>
 
       <p>
         I enjoy building intelligent systems, working on real-world projects,
+        solving challenging problems on platforms like Leetcode, HackerRank etc
         and continuously improving my skills. I have hands-on experience with 
-        Python, Machine Learning, React and Data Science.
+        Programming in C/C++, Python, Machine Learning, React and Data Science.
       </p>
 
       <p>
